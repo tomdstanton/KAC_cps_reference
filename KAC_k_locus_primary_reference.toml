@@ -1,6 +1,6 @@
 name = "Klebsiella_aerogenes_K"
 keyword = "kaer_k"
-genbank = "Klebsiella_aerogenes_K.gbk"
+genbank = "KAC_k_locus_primary_reference.gbk"
 organism = "Klebsiella aerogenes"
 taxon = 548
 antigen = "Capsular polysaccharide"
